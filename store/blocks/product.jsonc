@@ -11,7 +11,7 @@
     "props": {
       "marginTop": 6
     },
-    "children": [a{
+    "children": [{
       "store.product": {
         "children": [
           "breadcrumb",
