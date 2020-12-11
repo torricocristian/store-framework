@@ -8,7 +8,6 @@
         "image#brand5",
         "image#brand6"
       ],
-      
       "props": {
         "autoplay": {
           "timeout": 7000,
@@ -46,5 +45,4 @@
         "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square6.png"
       }
     }
-
   }
