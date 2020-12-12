@@ -7,8 +7,7 @@
     },
     "image#landingbanner": {
       "props": {
-        "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
-        "minWidth": "100%"
+        "src": "https://storecomponents.vteximg.com.br/arquivos/box.png"
       }
     },
     "search-result-layout.customQuery#landing": {
