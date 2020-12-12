@@ -11,7 +11,8 @@
         "header-layout.mobile"
       ]
     },
-
+    // DESKTOP
+    // -------------------------------
     "header-layout.desktop": {
       "children": [
         "header-row#notification",
@@ -19,7 +20,7 @@
         "header-row#menu"
       ]
     },
- 
+    // -------------------------------
     "header-row#main": {
       "children": [
         "logo",
@@ -34,20 +35,20 @@
         "fullWidth": false
       }
     },
- 
+    // -------------------------------
     "logo": {
       "props": {
         "url": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/flatflat___6081e50402943bcb11bc45a8e613aa72.png"
       }
     },
- 
+    // -------------------------------
     "login": {
       "props": {
         "showIconProfile": true,
         "iconLabel": "Login"
       }
     },
- 
+    // -------------------------------
     "header-row#menu": {
       "children": [
         "header-spacer",
@@ -55,10 +56,8 @@
         "header-spacer"
       ]
     },
-
-
-
-
+    // MOBILE
+    // -------------------------------
     "header-layout.mobile": {
       "children": [
         "header-row#notification",
@@ -66,9 +65,7 @@
         "header-row#search"
       ]
     },
-
-
-
+    // -------------------------------
     "header-row#main-mobile": {
       "children": [
         "drawer",
@@ -82,8 +79,7 @@
         "inverted": true
       }
     },
-
-
+    // -------------------------------
     "header-row#search": {
       "children": [
         "search-bar"
@@ -92,7 +88,8 @@
         "sticky": true
       }
     },
-
+    // SHARED
+    // -------------------------------
     "header-row#notification": {
       "children": [
         "header-spacer",
@@ -100,7 +97,7 @@
         "header-spacer"
       ]
     },
-
+    // -------------------------------
     "rich-text#header": {
       "props": {
         "text": "**Free Shipping on orders over $50**",
