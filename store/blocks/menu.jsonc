@@ -9,9 +9,7 @@
         "orientation": "horizontal"
       }
     },
-
-    
-
+    // SUBMENU: MAJOR
     "vtex.menu@2.x:submenu#major": {
       "children": [
         "vtex.menu@2.x:menu#major"
@@ -27,9 +25,7 @@
         "orientation": "vertical"
       }
     },
-
-
-
+    // SUBMENU: SMALL APPLIANCES
     "vtex.menu@2.x:submenu#small": {
       "children": [
         "vtex.menu@2.x:menu#small"
